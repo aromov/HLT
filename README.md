@@ -4,3 +4,4 @@
 [Word Guessing Game](Word_Guess_Game/Guessing_Game_axr190125.py)  
 [WordNet](WordNet/WordNet_axr190125.pdf)  
 [Ngrams](Ngrams/)
+[SyntaxParsing](SyntaxParsing/Sentence_Parsing_axr190125.docx)
