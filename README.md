@@ -5,4 +5,5 @@
 [WordNet](WordNet/WordNet_axr190125.pdf)  
 [Ngrams](Ngrams/)  
 [SyntaxParsing](SyntaxParsing/Sentence_Parsing_axr190125.docx)  
-[AuthorAttribution](AuthorAttribution/AuthorAttribution.pdf)
+[AuthorAttribution](AuthorAttribution/AuthorAttribution.pdf)  
+[Text_Classification](Text_Classification/TextClassification.pdf)
